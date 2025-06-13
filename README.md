@@ -22,13 +22,10 @@ This repository implements a pipeline that:
 
 ---
 
-## 📁 Repository Structure
+## Data
 
-adjgat/\
-├── adjgat.ipynb # Main Jupyter notebook (preprocessing, graph construction, training loop)\
-├── utils/ # Optional: Helper functions (graph building, metrics, loss)\
-├── models/ # Optional: GAT and auxiliary models\
-└── README.md # You're reading this!\
+Original data files can be downloaded [here](https://www.kaggle.com/competitions/pdfvqa/data).\
+We also provided precomputed embeddings for both questions and document elements [here](https://zenodo.org/records/15657237). 
 
 
 ---
