@@ -1,4 +1,4 @@
-# 📄 ADJ-GAT: Adaptive Graph Attention Networks for Document Representation
+# 📄 GAT-DOC: Adaptive Graph Attention Networks for Document Representation
 
 Welcome to **ADJ-GAT**, a research-focused Python project that explores adaptive graph-based learning techniques for representing and reasoning over **visually rich documents (VRDs)**.
 
