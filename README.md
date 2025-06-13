@@ -38,8 +38,8 @@ adjgat/\
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/adjgat.git
-cd adjgat
+git clone https://github.com/vaianilorenzo/gat-doc.git
+cd gat-doc
 ```
 
 ### 2. Set up your environment
@@ -47,8 +47,8 @@ cd adjgat
 We recommend using conda:
 
 ```bash
-conda create -n adjgat python=3.9
-conda activate adjgat
+conda create -n gat-doc python=3.9
+conda activate gat-doc
 pip install -r requirements.txt
 ```
 
